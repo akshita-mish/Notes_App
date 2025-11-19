@@ -16,10 +16,6 @@ Displays all notes stored inside the file.
 
 Find notes by matching text or keywords.
 
-✅ Edit / Update Notes
-
-Modify a specific note and save the updated version.
-
 ✅ Delete Notes
 
 Remove one note or clear all notes.
